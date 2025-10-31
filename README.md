@@ -21,10 +21,8 @@
 <a href="#">
 <img src="https://img.shields.io/badge/LINKEDIN-LINKEDIN?style=for-the-badge&label=MODIFICAR&labelColor=black&color=blue" />
 </a>
-
 <a href="mailto:jesusantoniorubiot@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-GMAIL?style=for-the-badge&label=jesusantoniorubiot%40gmail.com&labelColor=black&color=EA4335
-"/>
+<img src="https://img.shields.io/badge/GMAIL-GMAIL?style=for-the-badge&label=jesusantoniorubiot%40gmail.com&labelColor=black&color=EA4335" />
 </a>
 
 
