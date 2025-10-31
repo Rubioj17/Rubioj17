@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="Jesus Rubio" src="banner.png">
+</p>
+
 ## Hi there 👋
 
 <!--
