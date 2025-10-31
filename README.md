@@ -2,7 +2,7 @@
   <img alt="Jesus Rubio" src="banner.png">
 </p>
 <h2 align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFpYnhnMDcxamNhb3E1cGh0cDAxdzI1OTN0YnZpOWJub3ZwNHV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/We5pjY9tr4BV40UnXL/giphy.gif" width=100/> Welcome to my GitHub</h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFpYnhnMDcxamNhb3E1cGh0cDAxdzI1OTN0YnZpOWJub3ZwNHV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/We5pjY9tr4BV40UnXL/giphy.gif" width="100"/> Welcome to my GitHub</h2>
 
 ¡Hola! Soy un Desarrollador Java Backend apasionado por crear APIs REST con Spring Boot, Hibernate y MySQL.
 
