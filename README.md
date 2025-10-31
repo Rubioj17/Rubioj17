@@ -1,8 +1,8 @@
 <p align="center">
   <img alt="Jesus Rubio" src="banner.png">
 </p>
-<h2 align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFpYnhnMDcxamNhb3E1cGh0cDAxdzI1OTN0YnZpOWJub3ZwNHV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/We5pjY9tr4BV40UnXL/giphy.gif" width="100"/> Welcome to my GitHub</h2>
+<h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFpYnhnMDcxamNhb3E1cGh0cDAxdzI1OTN0YnZpOWJub3ZwNHV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/We5pjY9tr4BV40UnXL/giphy.gif" width="80"/> Welcome to my GitHub</h2>
 
 ¡Hola! Soy un Desarrollador Java Backend apasionado por crear APIs REST con Spring Boot, Hibernate y MySQL.
 
@@ -17,9 +17,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤝🏻 Connect with Me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### 🤝🏻 Contáctame
+<a href="#">
+<img src="https://img.shields.io/badge/LINKEDIN-LINKEDIN?style=for-the-badge&label=MODIFICAR&labelColor=black&color=blue" />
+</a>
+
+<a href="mailto:jesusantoniorubiot@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-GMAIL?style=for-the-badge&label=jesusantoniorubiot%40gmail.com&labelColor=black&color=EA4335
+"/>
+</a>
 
 
 <!--
