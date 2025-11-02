@@ -4,12 +4,20 @@
 
 <h1 align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmFpYnhnMDcxamNhb3E1cGh0cDAxdzI1OTN0YnZpOWJub3ZwNHV0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/We5pjY9tr4BV40UnXL/giphy.gif" width="80"/>  
-  ¡Bienvenido a mi Perfil!
+  ¡Bienvenido a mi Perfil! / Welcome to my Profile!
 </h1>
 
+### 🇪🇸 Español
 Soy un **Desarrollador Backend Java** apasionado por crear soluciones eficientes y escalables con **Spring Boot**.
 
 Me gusta construir **APIs REST** bien diseñadas, trabajar con **bases de datos relacionales** y mejorar constantemente mis habilidades a través de proyectos personales y colaborativos.
+
+### 🇬🇧 English
+I’m a **Java Backend Developer** passionate about building efficient and scalable solutions with **Spring Boot**.
+
+I enjoy designing **REST APIs**, working with **relational databases**, and continuously improving my skills through personal and collaborative projects.
+
+---
 
 ## 💻 Tecnologías
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
