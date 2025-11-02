@@ -19,7 +19,7 @@ I enjoy designing **REST APIs**, working with **relational databases**, and cont
 
 ---
 
-## 💻 Tecnologías
+## 💻 Tecnologías / Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,7 +30,8 @@ I enjoy designing **REST APIs**, working with **relational databases**, and cont
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🤝🏻 Contáctame
+
+## 🤝🏻 Contáctame / Contact Me
 <a href="https://www.linkedin.com/in/rubiojdev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-rubiojdev-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -38,8 +39,13 @@ I enjoy designing **REST APIs**, working with **relational databases**, and cont
   <img src="https://img.shields.io/badge/Email-jesusantoniorubiot@gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
 
-## 🎖️ Proyectos destacados
-- 🚀 [Mars Rover API](https://github.com/RubiojDev/mars-rover-api) - API REST en **Java + Spring Boot** que simula el movimiento de un rover en Marte.
+
+## 🎖️ Proyectos destacados / Featured Projects
+- 🚀 [Mars Rover API](https://github.com/RubiojDev/mars-rover-api)
+
+  🇪🇸 API REST en **Java + Spring Boot** que simula el movimiento de un rover en Marte.
+
+  🇬🇧 REST API in **Java + Spring Boot** simulating the movement of a rover on Mars.
 ---
 
 <!-- Próximamente: sección 🌱 Actualmente aprendiendo -->
