@@ -12,19 +12,23 @@ Me interesa especialmente construir APIs eficientes con Java, Spring Boot y base
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🤝🏻 Contáctame
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-LINKEDIN?style=for-the-badge&label=MODIFICAR&labelColor=black&color=blue" />
+<a href="www.linkedin.com/in/rubiojdev">
+<img src="https://img.shields.io/badge/LINKEDIN-LINKEDIN?style=for-the-badge&label=rubiojdev&labelColor=black&color=blue" />
 </a>
 <a href="mailto:jesusantoniorubiot@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-GMAIL?style=for-the-badge&label=jesusantoniorubiot%40gmail.com&labelColor=black&color=EA4335" />
 </a>
 
 ## 🎖️ Proyectos destacados
-- [Nombre](link-al-repo) - Breve descripcion
+- [link-al-repo](https://github.com/RubiojDev/mars-rover-api) - Breve descripcion
   
 <!--
 **Rubioj17/Rubioj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
