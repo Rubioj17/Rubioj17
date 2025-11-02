@@ -20,7 +20,7 @@ Me interesa especialmente construir APIs eficientes con Java, Spring Boot y base
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🤝🏻 Contáctame
-<a href="www.linkedin.com/in/rubiojdev">
+<a href="https://www.linkedin.com/in/rubiojdev" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-LINKEDIN?style=for-the-badge&label=rubiojdev&labelColor=black&color=blue" />
 </a>
 <a href="mailto:jesusantoniorubiot@gmail.com">
@@ -28,19 +28,19 @@ Me interesa especialmente construir APIs eficientes con Java, Spring Boot y base
 </a>
 
 ## 🎖️ Proyectos destacados
-- [link-al-repo](https://github.com/RubiojDev/mars-rover-api) - Breve descripcion
+- 🚀 [Mars Rover API](https://github.com/RubiojDev/mars-rover-api) - API REST en **Java + Spring Boot** que simula el movimiento de un rover en Marte.
+
+<a href="https://www.linkedin.com/in/rubiojdev" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-rubiojdev-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:jesusantoniorubiot@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jesusantoniorubiot@gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
   
 <!--
-**Rubioj17/Rubioj17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Agrega una sección final de “Actualmente aprendiendo” o “Próximos pasos”
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Actualmente aprendiendo
+- Docker y despliegue de APIs en la nube ☁️
+- Mejores prácticas de testing con Mockito y JUnit 5
 -->
